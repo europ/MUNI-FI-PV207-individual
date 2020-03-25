@@ -4,9 +4,9 @@
 | :-----: | :--------: | :------- | :------------------------------------ | :------------------------------ | :--------------------------------------------- |
 | 1       | 20.02.2020 | -        | -                                     | -                               | canceled                                       |
 | 2       | 27.02.2020 | jBPM     | -                                     | -                               | simple business process with human task        |
-| 3       | 05.03.2020 | jBPM     | [zip](seminar-03/DeliveryProject.zip) | -                               | business process and data object               |
-| 4       | 12.03.2020 | Signavio | [pdf](seminar-04/doc/doc.pdf)         | [pdf](seminar-04/corrected.pdf) | level 1 business process                       |
-| 5       | 19.03.2020 |          |                                       |                                 |                                                |
+| 3       | 05.03.2020 | jBPM     | [zip](seminar-03/DeliveryProject.zip) | -                               | simple business process and data object        |
+| 4       | 12.03.2020 | Signavio | [pdf](seminar-04/doc/doc.pdf)         | [pdf](seminar-04/corrected.pdf) | business process at level 1                    |
+| 5       | 19.03.2020 | Signavio | [pdf](seminar-05/doc/doc.pdf)         |                                 | business process at level 2                    |
 | 6       | 26.03.2020 |          |                                       |                                 |                                                |
 | 7       | 02.04.2020 |          |                                       |                                 |                                                |
 | 8       | 09.04.2020 |          |                                       |                                 |                                                |
