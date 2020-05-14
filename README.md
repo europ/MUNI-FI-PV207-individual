@@ -1,5 +1,7 @@
 # [PV207 - Business Process Management](https://is.muni.cz/predmet/fi/jaro2020/PV207)
 
+### Seminars
+
 | Seminar | Date           | Tool     | Submitted                             | Corrected                        | Notes                                          |
 | :-----: | :------------: | :------- | :------------------------------------ | :------------------------------- | :--------------------------------------------- |
 | ~~1~~   | ~~20.02.2020~~ | -        | -                                     | -                                | canceled                                       |
@@ -13,10 +15,10 @@
 | 9       | 16.04.2020     | -        | -                                     | -                                | course consultation by course guarantor        |
 | ~~10~~  | ~~23.04.2020~~ | -        | -                                     | -                                | canceled                                       |
 | 11      | 30.05.2020     | -        | -                                     | -                                | course consultation by course guarantor        |
-| 12      | 07.05.2020     |          |                                       |                                  |                                                |
-| 13      | 17.05.2020     |          |                                       |                                  |                                                |
+| 12      | 07.05.2020     | -        | -                                     | -                                | course consultation about process modeling     |
+| ~~13~~  | ~~14.05.2020~~ | -        | -                                     | -                                | canceled                                       |
 
-### Notes
+### Used Tools
 
-* [jBPM](https://jbpm.org/)
-* [Signavio](https://www.academic.signavio.com/)
+* https://jbpm.org/
+* https://www.academic.signavio.com/
